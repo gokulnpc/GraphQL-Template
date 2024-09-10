@@ -7,13 +7,13 @@ This project is a template for building a GraphQL server using Node.js, Express,
 - .env
 - .gitignore
 - orders/
--     orders.graphql
--     orders.model.js
--     orders.resolver.js
+  -- orders.graphql
+  -- orders.model.js
+  -- orders.resolver.js
 - package.json
 - products/
--     products.graphql
--     products.model.js
--     products.resolvers.js
+  -- products.graphql
+  -- products.model.js
+  -- products.resolvers.js
 - README.md
 - server.js
